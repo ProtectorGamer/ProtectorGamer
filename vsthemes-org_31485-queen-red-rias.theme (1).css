@@ -1,0 +1,59 @@
+/**
+* @name RiasV2.exe
+* @description  Rias Gremory (High school dxd) Theme Based on the Frosted Glass theme
+* @author Justsenpai_ | szopjle#4172 
+* @version 1.0 
+* @authorId 270607409150558208
+*/
+@import url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:300,400,500,600,700,800,900&display=swap');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+:root {
+/*background pog*/
+--background-image: url(https://wallpapercave.com/wp/wp1864399.png);
+--home-button-image: url(https://media.giphy.com/media/30d2wNCnki5xu/giphy.gif);
+--background-image-blur: 0px;
+--popout-modal-image: url('var(--background-image)');
+--popout-modal-blur: 10px;
+/*forsted glass pog*/
+--serverlist-brightness: 0.0;
+--left-brightness: 0.0;
+--middle-brightness: 0.0;
+--right-brightness: 0.0;
+--popout-modal-brightness: 0.0;
+--font: 'Nunito';
+--tint-colour: 25, 2, 3;
+--tint-brightness: 0.76;
+--gradient-secondary: 255,0,0, 0.5;
+--gradient-primary: 0,0,0 , 0.8;
+--gradient-direction: 324deg;
+--show-gift-gif-buttons: block;
+--window-padding: 0px;
+--window-roundness: 0px;
+--update-notice-1: none;
+/*NAAT pog*/
+--main-color: rgb(104, 20, 20);
+--main-transparency: rgba(25, 2, 3, 0.76);
+--channel-hover-text-color: rgb(255, 6, 6);
+--scrollbar-colour: #b01414b5;
+--link-colour: #fa7272;
+--friends-icon-zoom: 200%;
+--rs-avatar-shape: 50%;
+--friends-icon-position: center center;
+--selected-text-voice-color: #fff5f5;
+--unread-text-color: #ff9191;
+--rs-online-color: #2ddd4b;
+--rs-idle-color: #c57205;
+--rs-dnd-color: #aa0a0a;
+--rs-offline-color: #707070;
+--rs-streaming-color: #642fbf;
+--rs-invisible-color: #a8abaf;
+--rs-width: 2.5px;
+--rs-avatar-shape: 36.8%;
+--HSL-server-icon-size: 45px;
+--HSL-server-spacing: 15px;
+}
