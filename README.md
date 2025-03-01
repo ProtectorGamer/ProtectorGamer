@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=ProtectorGamer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🧑‍💻 Currently I’m working on Anti-Virus, PC & Phone Defence System<br>🌱 Diving deep into Application, Web & Android Development<br>👀 I’m interested to collaborate on PAWN, Cyber Security, Ethical Hacking & AI/ML Projects<br>💬 You can ask me about C, C++, C#, Java, AI/ML, PAWN.<br>📫 Reach me at vanshc509@gmail.com<br>
+🧑‍💻 Currently I’m working on Anti-Virus, Penetration Tools & Hardware Tools<br>🌱 Diving deep into Development, Ethical Hacking, Cyber Sec. & Hat Hacker<br>👀 I’m interested to collaborate on PAWN, Cyber Security, Ethical Hacking & AI/ML Projects<br>💬 You can ask me about C, C++, C#, Java, AI/ML, PAWN.<br>📫 Reach me at vanshc509@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -27,6 +27,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tpgprotector) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
