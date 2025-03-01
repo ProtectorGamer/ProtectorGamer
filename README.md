@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Thakur (Protector)</h1>
-<h3 align="center">A passionate frontend & backend developer along with Cyber Security Learner from India</h3>
+<h3 align="center">A Passionate Full-Stack Developer along with Cyber Security, Red/Grey/Blue Team & Ethical Hacking Major from India</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ProtectorGamer&icon=0&color=0)](https://visitcount.itsvg.in)
